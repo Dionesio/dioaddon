@@ -1,0 +1,23 @@
+<channels>
+    <channel> 
+     <name>FILMES<name>
+     <thumbnail></thumbnail>
+     <externallink><externallink>
+	 <fanart></fanart>
+     <info>
+    
+	<channels>
+    <channel> 
+     <name>SERIES<name>
+     <thumbnail></thumbnail>
+     <externallink><externallink>
+	 <fanart></fanart>
+     <info>
+	 
+	 <channels>
+    <channel> 
+     <name>TV<name>
+     <thumbnail></thumbnail>
+     <externallink><externallink>
+	 <fanart></fanart>
+     <info>
